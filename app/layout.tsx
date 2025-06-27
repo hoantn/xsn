@@ -7,8 +7,8 @@ import { AuthProvider } from "./components/AuthProvider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Telegram Proxy Manager",
-  description: "Quản lý proxy Telegram với giao diện đơn giản",
+  title: "Đổi Proxy VPN Telegram Free 1 Click - Televn.Com",
+  description: "Quản lý proxy Telegram với giao diện đơn giản - Televn.Com",
     generator: 'v0.dev'
 }
 
